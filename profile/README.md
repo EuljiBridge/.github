@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/lockup.png" width="520" alt="을지브릿지 Eulji Bridge" />
+<img src="https://raw.githubusercontent.com/EuljiBridge/.github/main/profile/assets/lockup.png" width="520" alt="을지브릿지 Eulji Bridge" />
 
 <br/>
 
@@ -101,7 +101,7 @@
 <br/>
 
 <div align="center">
-<img src="assets/mark.png" width="64" />
+<img src="https://raw.githubusercontent.com/EuljiBridge/.github/main/profile/assets/mark.png" width="64" />
 
 <sub>을지대학교 멋쟁이사자처럼 14기 · Eulji Bridge</sub>
 </div>
